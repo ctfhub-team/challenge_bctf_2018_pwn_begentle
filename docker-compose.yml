@@ -1,0 +1,10 @@
+version: "2"
+services:
+  pwn:
+    build: .
+    image: challenge_bctf_2018_pwn_begentle
+    ports:
+      - "10000:10000"
+    environment:
+      - FLAG=ctfhub{challenge_bctf_2018_pwn_begentle}
+      - TCPDUMP_ENABLE=0
