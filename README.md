@@ -1,6 +1,7 @@
 # bctf_2018_pwn_begentle
 
-build with base_pwn_xinetd_1804
+Build with [ctfhub/base_pwn_xinetd_1804](https://hub.docker.com/r/ctfhub/base_pwn_xinetd_1804)
+
 
 ## 题目详情
 
@@ -17,4 +18,6 @@ build with base_pwn_xinetd_1804
 
 ## 版权
 
-该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系本人删除（wzcboss@qq.com）
+该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系我们删除（services#ctfhub.com）
+
+This challenge has not obtained relevant authorization from the organizer and the author. If it is infringing, please contact us to delete (services#ctfhub.com)
